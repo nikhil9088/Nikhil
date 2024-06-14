@@ -36,7 +36,7 @@
 
 <div class="container">
     <header>
-        <h1>Nikhil kumar gupta 2711234556</h1>
+        <h1>Nikhil kumar gupta</h1>
         <p>334 Pratap Vihar 2nd , Ghaziabad,UP- 201009 (9504924256) itsnikhilgupta271@gmail.com </p>
     </header>
 
@@ -49,7 +49,7 @@
 
     <div class="section">
         <h2>Education</h2>
-        <p>Master in Computer Application in Cloud Computing and DevOps,  Chandigarh University , 2024</p>
+        <p>Master in Computer Application in Cloud Computing and DevOps,  Chandigarh University , Mohali, 2024</p>
     </div>
 
     <div class="section">
